@@ -1,0 +1,158 @@
+-... # # # -. --. / -. .... # # # -. / .-. .- / .... # # # # -. --. / # # # .. 
+.--. .... # # # / ...- # # --- / - .-. --- -. --. / --. .. # # / ... . 
+... # # # # -. --. / -.-. .... # # -. --. / -.-. .... # # -. .... / --.- ..- .- / -. --. # # 
+.... # # -. .... / -. .... # # / - .... ..- / # # # # / ...- # # # 
+... # # -. --. / # # # # # # # -.-. / .-.. # # -.-. / -.. # # # -. .... / -.. # # -. --. 
+-.-. .... .. -- / -... # # # - / # # # # # ..- / ...- # # # .. / ...- # # 
+-.-. # # / # # # # -- / -- # # -.-- / -- # # .- / .... # # # 
+...- # # # - / -. # # # .- / -- # # -. .... / ... .- -. --. / - .... ..- 
+...- # # # -. / -.-. # # -. / -... .- --- / -. .... .. # # ..- / -. # # # -. --. 
+# # # # / ...- # # .. / -.. # # # -. / -.-. # # -. / -- # # .- 
+... # # # -- / -.-. # # -. --. / -... # # # - / -... # # # - / -. --. # # # 
+- .-. # # -. / .... # # -. --. / -.-. # # -.-- / # # # # # -. --. / - ..- # # # .. .-.-.- 
+- --- / --. . - / .... . .-.. .--. --..-- / ..- ... .- --. . ---... / -- --- .-. ... . / -....- .... 
+-. --- - . ---... / - .... . / .. -. ... - .-. ..- -.-. - .. --- -. / --- -. / - .... . / ... -.-. .-. . . -. / .. ... / .- .-.. ... --- / ... .- ...- . -.. / .. -. / .- / ..-. .. .-.. . / -. .- -- . / .-. . .- -.. -- . .-.-.- - -..- - 
+-.-- --- ..- / -.-. .- -. / -.-. .... . -.-. -.- / .. - # 
+Error 06: Unrecognized character · on line 01
+Error 06: Unrecognized character ª on line 01
+Error 06: Unrecognized character ó on line 01
+Error 06: Unrecognized character · on line 01
+Error 06: Unrecognized character ∫ on line 01
+Error 06: Unrecognized character ≠ on line 01
+Error 06: Unrecognized character ∆ on line 01
+Error 06: Unrecognized character ∞ on line 01
+Error 06: Unrecognized character ∆ on line 01
+Error 06: Unrecognized character ° on line 01
+Error 06: Unrecognized character · on line 01
+Error 06: Unrecognized character ª on line 01
+Error 06: Unrecognized character ï on line 01
+Error 06: Unrecognized character · on line 02
+Error 06: Unrecognized character ∫ on line 02
+Error 06: Unrecognized character £ on line 02
+Error 06: Unrecognized character √ on line 02
+Error 06: Unrecognized character † on line 02
+Error 06: Unrecognized character √ on line 02
+Error 06: Unrecognized character ≥ on line 02
+Error 06: Unrecognized character ∆ on line 03
+Error 06: Unrecognized character ∞ on line 03
+Error 06: Unrecognized character ∆ on line 03
+Error 06: Unrecognized character ° on line 03
+Error 06: Unrecognized character √ on line 03
+Error 06: Unrecognized character π on line 03
+Error 06: Unrecognized character √ on line 03
+Error 06: Unrecognized character ¨ on line 03
+Error 06: Unrecognized character √ on line 03
+Error 06: Unrecognized character µ on line 03
+Error 06: Unrecognized character √ on line 04
+Error 06: Unrecognized character ¨ on line 04
+Error 06: Unrecognized character ∆ on line 04
+Error 06: Unrecognized character ∞ on line 04
+Error 06: Unrecognized character ƒ on line 04
+Error 06: Unrecognized character ë on line 04
+Error 06: Unrecognized character √ on line 04
+Error 06: Unrecognized character £ on line 04
+Error 06: Unrecognized character · on line 04
+Error 06: Unrecognized character ª on line 04
+Error 06: Unrecognized character Å on line 04
+Error 06: Unrecognized character √ on line 05
+Error 06: Unrecognized character ¥ on line 05
+Error 06: Unrecognized character ƒ on line 05
+Error 06: Unrecognized character ë on line 05
+Error 06: Unrecognized character ∆ on line 05
+Error 06: Unrecognized character ∞ on line 05
+Error 06: Unrecognized character · on line 05
+Error 06: Unrecognized character ª on line 05
+Error 06: Unrecognized character £ on line 05
+Error 06: Unrecognized character √ on line 05
+Error 06: Unrecognized character ∫ on line 05
+Error 06: Unrecognized character · on line 05
+Error 06: Unrecognized character ª on line 05
+Error 06: Unrecognized character Å on line 05
+Error 06: Unrecognized character √ on line 05
+Error 06: Unrecognized character † on line 05
+Error 06: Unrecognized character · on line 06
+Error 06: Unrecognized character ∫ on line 06
+Error 06: Unrecognized character Ø on line 06
+Error 06: Unrecognized character ƒ on line 06
+Error 06: Unrecognized character ë on line 06
+Error 06: Unrecognized character · on line 06
+Error 06: Unrecognized character ∫ on line 06
+Error 06: Unrecognized character ß on line 06
+Error 06: Unrecognized character · on line 06
+Error 06: Unrecognized character ª on line 06
+Error 06: Unrecognized character ô on line 06
+Error 06: Unrecognized character √ on line 06
+Error 06: Unrecognized character £ on line 06
+Error 06: Unrecognized character √ on line 07
+Error 06: Unrecognized character ≥ on line 07
+Error 06: Unrecognized character ƒ on line 07
+Error 06: Unrecognized character ë on line 07
+Error 06: Unrecognized character √ on line 07
+Error 06: Unrecognized character ° on line 07
+Error 06: Unrecognized character √ on line 07
+Error 06: Unrecognized character ¢ on line 07
+Error 06: Unrecognized character √ on line 07
+Error 06: Unrecognized character π on line 07
+Error 06: Unrecognized character · on line 07
+Error 06: Unrecognized character ∫ on line 07
+Error 06: Unrecognized character ° on line 07
+Error 06: Unrecognized character · on line 08
+Error 06: Unrecognized character ∫ on line 08
+Error 06: Unrecognized character Ø on line 08
+Error 06: Unrecognized character · on line 08
+Error 06: Unrecognized character ª on line 08
+Error 06: Unrecognized character ≠ on line 08
+Error 06: Unrecognized character √ on line 08
+Error 06: Unrecognized character ¨ on line 08
+Error 06: Unrecognized character · on line 09
+Error 06: Unrecognized character ∫ on line 09
+Error 06: Unrecognized character ´ on line 09
+Error 06: Unrecognized character √ on line 09
+Error 06: Unrecognized character ≤ on line 09
+Error 06: Unrecognized character √ on line 09
+Error 06: Unrecognized character ™ on line 09
+Error 06: Unrecognized character · on line 09
+Error 06: Unrecognized character ∫ on line 09
+Error 06: Unrecognized character Ø on line 09
+Error 06: Unrecognized character ƒ on line 10
+Error 06: Unrecognized character ê on line 10
+Error 06: Unrecognized character √ on line 10
+Error 06: Unrecognized character £ on line 10
+Error 06: Unrecognized character ∆ on line 10
+Error 06: Unrecognized character ° on line 10
+Error 06: Unrecognized character · on line 10
+Error 06: Unrecognized character ∫ on line 10
+Error 06: Unrecognized character ß on line 10
+Error 06: Unrecognized character ∆ on line 10
+Error 06: Unrecognized character ° on line 10
+Error 06: Unrecognized character ∆ on line 10
+Error 06: Unrecognized character ∞ on line 10
+Error 06: Unrecognized character · on line 11
+Error 06: Unrecognized character ∫ on line 11
+Error 06: Unrecognized character • on line 11
+Error 06: Unrecognized character ≈ on line 11
+Error 06: Unrecognized character © on line 11
+Error 06: Unrecognized character · on line 11
+Error 06: Unrecognized character ª on line 11
+Error 06: Unrecognized character õ on line 11
+Error 06: Unrecognized character · on line 11
+Error 06: Unrecognized character ∫ on line 11
+Error 06: Unrecognized character • on line 11
+Error 06: Unrecognized character · on line 11
+Error 06: Unrecognized character ª on line 11
+Error 06: Unrecognized character ù on line 11
+Error 06: Unrecognized character √ on line 12
+Error 06: Unrecognized character ™ on line 12
+Error 06: Unrecognized character √ on line 12
+Error 06: Unrecognized character † on line 12
+Error 06: Unrecognized character √ on line 12
+Error 06: Unrecognized character ¢ on line 12
+Error 06: Unrecognized character ƒ on line 12
+Error 06: Unrecognized character ë on line 12
+Error 06: Unrecognized character · on line 12
+Error 06: Unrecognized character ª on line 12
+Error 06: Unrecognized character © on line 12
+Error 06: Unrecognized character · on line 12
+Error 06: Unrecognized character ª on line 12
+Error 06: Unrecognized character ï on line 12
+Error 06: Unrecognized character ! on line 15

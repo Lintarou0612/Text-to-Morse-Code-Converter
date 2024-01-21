@@ -1,0 +1,9 @@
+c#a mn t mat*.
+bu#g in  rug.
+# # *ei u
+Error 07: Invalid Morse code ........ on line 01
+Error 07: Invalid Morse code ..-... on line 01
+Error 07: Invalid Morse code .-.-.-.- on line 02
+Error 07: Invalid Morse code -..--...-- on line 03
+Error 07: Invalid Morse code ..--.--. on line 03
+Error 07: Invalid Morse code ..-- on line 03

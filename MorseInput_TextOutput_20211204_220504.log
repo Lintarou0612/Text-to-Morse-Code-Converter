@@ -1,0 +1,18 @@
+Input file: MorseInput.txt
+Output file: TextOutput.txt
+Time complete: 2021-Dec-04 22:05:04
+Duration [seconds]: 0
+Word count in input file: 12
+Word converted: 6
+Total number of characters: 27
+Number of characters have been converted: 21
+Number of characters are NOT converted: 6
+c#a mn t mat*.
+bu#g in  rug.
+# # *ei u
+Error 07: Invalid Morse code ........ on line 01
+Error 07: Invalid Morse code ..-... on line 01
+Error 07: Invalid Morse code .-.-.-.- on line 02
+Error 07: Invalid Morse code -..--...-- on line 03
+Error 07: Invalid Morse code ..--.--. on line 03
+Error 07: Invalid Morse code ..-- on line 03
